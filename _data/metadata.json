@@ -1,26 +1,26 @@
 {
-  "title": "Title of the website. Update me.",
-  "url": "https://update-me.com",
-  "domain": "update-me.com",
-  "description": "Description of the website. Update me.",
-  "genre": "Insert a schema.org genre",
-  "googleAnalyticsId": "GA ID. Update me. Note, that this is not compatible with the not-yet-commonly used version 4 of Google Analytics",
-  "sendWebVitals": false,
+  "title": "Justus-Constantin Weidhaus",
+  "url": "https://weidhaus.com",
+  "domain": "weidhaus.com",
+  "description": "Justus-Constantin Weidhaus is a Freelance IT Specialist with over 10 years of hands-on experience in the IT World. He has worked for large retail companies, first-class consultancies and market-leading big data corporation.",
+  "genre": "Blog",
+  "googleAnalyticsId": "G-2NLMGZBL30",
+  "sendWebVitals": true,
   "feed": {
-    "subtitle": "Subtitle. Update me.",
+    "subtitle": "Freelance IT Specialist Justus-Constantin Weidhaus",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://update-me.com"
+    "id": "https://weidhaus.com"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://update-me.com/feed/feed.json"
+    "url": "https://weidhaus.com/feed/feed.json"
   },
   "author": {
-    "name": "Author Name. Update me.",
-    "twitterHandle": "update_me"
+    "name": "Justus-Constantin Weidhaus.",
+    "twitterHandle": "jcweidhaus"
   },
   "publisher": {
-    "name": "Publisher name. Update me."
+    "name": "Justus-Constantin Weidhaus."
   }
 }
