@@ -35,7 +35,7 @@
     "eleventy-plugin-local-images": "^0.4.0",
     "file-type": "^16.5.4",
     "fs-extra": "^8.1.0",
-    "jsdom": "^16.5.1",
+    "jsdom": "^17.0.0",
     "luxon": "^2.5.2",
     "markdown-it": "^12.3.2",
     "markdown-it-anchor": "^5.2.5",
@@ -46,7 +46,7 @@
     "shorthash": "0.0.2"
   },
   "dependencies": {
-    "@ampproject/toolbox-optimizer": "^2.4.0",
+    "@ampproject/toolbox-optimizer": "^2.9.0",
     "any-shell-escape": "^0.1.1",
     "clean-css": "^4.2.3",
     "concurrently": "^7.0.0",
